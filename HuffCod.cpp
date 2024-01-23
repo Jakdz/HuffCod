@@ -2,7 +2,7 @@
 *	@file HuffCod.cpp
 *	@brief Main file of the project.
 *	@details This file contains the project's 'main()' function.
-*	@author Jakub Daü
+*	@author Jakub Daz
 *	@bug No known bugs.
 */
 

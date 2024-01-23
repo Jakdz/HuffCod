@@ -2,7 +2,7 @@
 *	@file functions_and_structs.cpp
 *	@brief File containing the functions outlined in this file's header.
 *	@details Contains bodies of functions declared in the functions_and_structs header.
-*	@author Jakub Daü
+*	@author Jakub Daz
 *	@bug No known bugs.
 */
 

@@ -3,7 +3,7 @@
 *	@brief Structures and declaration of functions for the project.
 *	@details Contains the HuffNode structure used in the Huffman Compression to create the binary tree from which codes may be read,
 *   as well as declarations of functions used in it.
-*	@author Jakub Daü
+*	@author Jakub Daz
 *	@bug No known bugs.
 */
 

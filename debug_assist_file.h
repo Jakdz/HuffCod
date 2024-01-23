@@ -2,7 +2,7 @@
 *	@file debug_assist_file.h
 *	@brief Functions to help with debugging.
 *	@details Contains declaration's of functions used in debugging process of the Huffman coding project.
-*	@author Jakub Daü
+*	@author Jakub Daz
 *	@bug No known bugs.
 */
 
